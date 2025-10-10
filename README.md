@@ -24,7 +24,7 @@ while True:
     c.send(ClientMessage.encode())
 ```
 **CLIENT**
-``
+```
 
 import socket 
 s=socket.socket() 
@@ -38,7 +38,7 @@ while True:
 
 ## OUTPUT
 
-![alt text](image.png)
+![alt text](cn-3a.jpg)
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
